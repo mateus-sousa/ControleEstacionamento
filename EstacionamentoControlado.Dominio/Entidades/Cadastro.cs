@@ -11,7 +11,7 @@ namespace EstacionamentoControlado.Dominio.Entidades
     {
         [Key]
         public int Id { get; set; }
-        public DateTime DatadCadastro { get; set; }
+        public DateTime DatadoCadastro { get; set; }
 
        
     }
